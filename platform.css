@@ -1,0 +1,46 @@
+body{
+    padding-top: 80px;
+}
+header{
+   box-shadow: 2px 4px 6px 2px grey;
+   position: relative;
+   z-index: 9;
+}
+.more-width{
+    width: 350px !important;
+}
+.form-inline>button{
+    position: relative;
+    right: 51px;
+}
+.box{
+    padding: 20px;
+    padding-left: 68px;
+}
+.bgcolor{
+    background-image: linear-gradient(to right, red , #ff7526);
+}
+.bgorange{
+    background-color: #ff7526;
+}
+.box2{
+    background-color: #80808021;
+    padding: 30px;
+    box-sizing: border-box;
+    height: 437px;
+}
+.box3{
+    background-color: #80808021;
+    padding-left:18px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    box-sizing: border-box;
+   
+}
+.card>img{
+height: 140px;
+}
+.card{
+    float: left;
+}
